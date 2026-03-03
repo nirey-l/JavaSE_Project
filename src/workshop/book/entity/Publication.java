@@ -1,6 +1,7 @@
 package workshop.book.entity;
 
-public class Publication {
+// √‚∆«π∞
+public class Publication extends Object{
 	private String title;
 	private String publishingDate;
 	private int page;

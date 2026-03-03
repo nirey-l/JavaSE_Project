@@ -1,6 +1,8 @@
 package workshop.book.entity;
 
+// 소설
 public class Novel extends Publication {
+	// 상속 받은 속성이 아니라 Novel이 가지는 독자적인 속성
 	private String author;
 	private String genre;
 	
