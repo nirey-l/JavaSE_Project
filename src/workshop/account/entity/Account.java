@@ -1,5 +1,6 @@
 package workshop.account.entity;
 
+import workshop.account.exception.InsufficientBalanceException;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
