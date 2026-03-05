@@ -20,8 +20,7 @@ public class PersonEntityTest {
 	}
 
 	public void fillPersons(PersonEntity[] persons) {
-		// persons[0]ÀÇ Å¸ÀÔÀº PersonEntity Å¸ÀÔ
-		persons[0] = new PersonEntity("ÀÌ¼ºÈ£","7212121028102", "ÀÎÃµ °è¾ç±¸", "032-392-2932");
-		persons[1] = new PersonEntity("±èÇÏ´Ã","7302132363217", "¼­¿ï °­µ¿±¸", "02-362-1932");
+		persons[0] = new PersonEntity("ì´ì„±í˜¸","7212121028102", "ì¸ì²œ ê³„ì–‘êµ¬", "032-392-2932");
+		persons[1] = new PersonEntity("ê¹€í•˜ëŠ˜","7302132363217", "ì„œìš¸ ê°•ë™êµ¬", "02-362-1932");
 	}
 }
